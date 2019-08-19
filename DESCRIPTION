@@ -1,9 +1,9 @@
-Package: ChristofferJanlowRProj
+Package: StudiData
 Type: Data for Studi project
-Title: What the Package Does (Title Case)
+Title: Data for Studi project
 Version: 0.1.0
 Author: Christoffer Janlow
-Maintainer: The package maintainer <yourself@somewhere.net>
+Maintainer: The package maintainer <janlow_91@hotmail.com>
 Description: Just my data for the Studi project I did for Ungdomsbarometern.
 License: What license is it under?
 Encoding: UTF-8
