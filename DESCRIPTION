@@ -1,0 +1,10 @@
+Package: ChristofferJanlowRProj
+Type: Data for Studi project
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Christoffer Janlow
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: Just my data for the Studi project I did for Ungdomsbarometern.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
