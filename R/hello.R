@@ -16,4 +16,4 @@
 hello <- function() {
   print("Hello, world!")
 }
-devtools::use_data_raw()
+usethis::use_data_raw()
